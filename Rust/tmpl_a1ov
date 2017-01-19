@@ -1,0 +1,7 @@
+struct Rechte {
+    field: Type
+}
+
+fn main() {
+    println!("Foo2");
+}

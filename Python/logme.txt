@@ -1,0 +1,2 @@
+meinLogger - DEBUG : 2015-11-07 13:28:48,376 - debugging
+meinLogger - DEBUG : 2015-11-07 13:30:26,791 - debugging

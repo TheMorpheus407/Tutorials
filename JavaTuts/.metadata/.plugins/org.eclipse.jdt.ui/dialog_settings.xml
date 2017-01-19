@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item value="0" key="org.eclipse.jdt.uiformatter_pagemodify_dialog.last_focus"/>
+	<item value="JavaSE-1.7" key="org.eclipse.jdt.ui.last.selected.execution.enviroment"/>
+	<item value="3" key="TypeHierarchyViewPart.orientation"/>
+	<item value="257" key="org.eclipse.jdt.uiformatter_pagemodify_dialog.preferred_x"/>
+	<item value="false" key="TypeHierarchyViewPart.linkeditors"/>
+	<item value="108" key="org.eclipse.jdt.uiformatter_pagemodify_dialog.preferred_y"/>
+	<item value="-1" key="org.eclipse.jdt.uiformatter_page.modify_dialog_tab_page.last_focus_index"/>
+	<item value="2" key="TypeHierarchyViewPart.hierarchyview"/>
+	<item value="false" key="TypeHierarchyViewPart.qualifiednames"/>
+	<item value="0" key="org.eclipse.jdt.uiformatter_page.white_space_tab_page.node"/>
+	<item value="C:\Users\Morpheus\Documents" key="org.eclipse.jdt.ui.codeformatter.savepath"/>
+	<item value="1005" key="org.eclipse.jdt.uiformatter_pagemodify_dialog.preferred_width"/>
+	<item value="863" key="org.eclipse.jdt.uiformatter_pagemodify_dialog.preferred_height"/>
+	<item value="C:\Users\Morpheus\Desktop\hsqldb\lib" key="org.eclipse.jdt.ui.lastextjar"/>
+	<item value="1" key="org.eclipse.jdt.uiformatter_page.line_wrapping_tab_page.last_category_index"/>
+	<item value="0" key="org.eclipse.jdt.uiformatter_page.white_space.java_view.inner"/>
+	<section name="org.eclipse.ltk.ui.refactoring.settings">
+		<item value="false" key="updateSimilarElements"/>
+		<item value="1" key="updateSimilarElementsMatchStrategy"/>
+		<item value="false" key="updateTextualMatches"/>
+	</section>
+	<section name="ProblemSeveritiesConfigurationBlock">
+		<item value="false" key="expanded2"/>
+		<item value="false" key="expanded1"/>
+		<item value="false" key="expanded4"/>
+		<item value="false" key="expanded3"/>
+		<item value="false" key="expanded6"/>
+		<item value="false" key="expanded5"/>
+		<item value="false" key="expanded7"/>
+		<item value="true" key="expanded0"/>
+	</section>
+	<section name="GenerateConstructorUsingFieldsSelectionDialog">
+		<item value="false" key="OmitCallToSuper"/>
+	</section>
+	<section name="DialogBounds_SuperInterfaceSelectionDialog">
+		<item value="373" key="DIALOG_WIDTH"/>
+		<item value="1|Segoe UI|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI" key="DIALOG_FONT_NAME"/>
+		<item value="549" key="DIALOG_HEIGHT"/>
+		<item value="85" key="DIALOG_X_ORIGIN"/>
+		<item value="-47" key="DIALOG_Y_ORIGIN"/>
+	</section>
+	<section name="org.eclipse.jdt.internal.ui.packageview.PackageExplorerPart">
+		<item value="2" key="layout"/>
+		<item value="true" key="group_libraries"/>
+		<item value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&#x0A;&lt;packageExplorer group_libraries=&quot;1&quot; layout=&quot;2&quot; linkWithEditor=&quot;0&quot; rootMode=&quot;1&quot; workingSetName=&quot;Aggregate for window 1418051150675&quot;&gt;&#x0A;&lt;customFilters userDefinedPatternsEnabled=&quot;false&quot;&gt;&#x0A;&lt;xmlDefinedFilters&gt;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.StaticsFilter&quot; isEnabled=&quot;false&quot;/&gt;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.NonJavaProjectsFilter&quot; isEnabled=&quot;false&quot;/&gt;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer_patternFilterId_.*&quot; isEnabled=&quot;true&quot;/&gt;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.NonSharedProjectsFilter&quot; isEnabled=&quot;false&quot;/&gt;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.SyntheticMembersFilter&quot; isEnabled=&quot;true&quot;/&gt;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.ContainedLibraryFilter&quot; isEnabled=&quot;false&quot;/&gt;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.internal.ui.PackageExplorer.HideInnerClassFilesFilter&quot; isEnabled=&quot;true&quot;/&gt;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.internal.ui.PackageExplorer.EmptyInnerPackageFilter&quot; isEnabled=&quot;true&quot;/&gt;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.ClosedProjectsFilter&quot; isEnabled=&quot;false&quot;/&gt;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.EmptyLibraryContainerFilter&quot; isEnabled=&quot;true&quot;/&gt;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.PackageDeclarationFilter&quot; isEnabled=&quot;true&quot;/&gt;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.ImportDeclarationFilter&quot; isEnabled=&quot;true&quot;/&gt;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.NonJavaElementFilter&quot; isEnabled=&quot;false&quot;/&gt;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.LibraryFilter&quot; isEnabled=&quot;false&quot;/&gt;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.CuAndClassFileFilter&quot; isEnabled=&quot;false&quot;/&gt;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.internal.ui.PackageExplorer.EmptyPackageFilter&quot; isEnabled=&quot;false&quot;/&gt;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.NonPublicFilter&quot; isEnabled=&quot;false&quot;/&gt;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.LocalTypesFilter&quot; isEnabled=&quot;false&quot;/&gt;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.FieldsFilter&quot; isEnabled=&quot;false&quot;/&gt;&#x0A;&lt;/xmlDefinedFilters&gt;&#x0A;&lt;/customFilters&gt;&#x0A;&lt;/packageExplorer&gt;" key="memento"/>
+		<item value="1" key="rootMode"/>
+		<item value="false" key="linkWithEditor"/>
+	</section>
+	<section name="DialogBounds_GenerateConstructorUsingFieldsSelectionDialog">
+		<item value="520" key="DIALOG_WIDTH"/>
+		<item value="1|Segoe UI|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI" key="DIALOG_FONT_NAME"/>
+		<item value="678" key="DIALOG_HEIGHT"/>
+		<item value="483" key="DIALOG_X_ORIGIN"/>
+		<item value="64" key="DIALOG_Y_ORIGIN"/>
+	</section>
+	<section name="NewClassWizardPage">
+		<item value="false" key="create_constructor"/>
+		<item value="true" key="create_main"/>
+		<item value="true" key="create_unimplemented"/>
+	</section>
+	<section name="OptionalMessageDialog.hide.">
+		<item value="true" key="org.eclipse.jdt.ui.typecomment.deprecated"/>
+	</section>
+	<section name="SourceActionDialog.constructors">
+		<item value="false" key="SynchronizedModifier"/>
+		<item value="false" key="Comments"/>
+		<item value="1" key="VisibilityModifier"/>
+		<item value="false" key="FinalModifier"/>
+	</section>
+	<section name="DialogBounds_GetterSetterTreeSelectionDialog">
+		<item value="529" key="DIALOG_WIDTH"/>
+		<item value="1|Segoe UI|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI" key="DIALOG_FONT_NAME"/>
+		<item value="696" key="DIALOG_HEIGHT"/>
+		<item value="476" key="DIALOG_X_ORIGIN"/>
+		<item value="-42" key="DIALOG_Y_ORIGIN"/>
+	</section>
+	<section name="org.eclipse.jdt.internal.ui.dialogs.OpenTypeSelectionDialog2">
+		<item value="true" key="ShowStatusLine"/>
+		<item value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&#x0D;&#x0A;&lt;History/&gt;" key="History"/>
+	</section>
+	<section name="RefactoringWizard.preview">
+		<item value="600" key="width"/>
+		<item value="400" key="height"/>
+	</section>
+	<section name="javadoc">
+		<item value="public" key="access"/>
+		<item value="false" key="noindex"/>
+		<item value="C:\Users\Morpheus\Documents\JavaTuts\DebuggingUndComments\javadoc.xml" key="antpath"/>
+		<item value="false" key="nodeprecatedlist"/>
+		<item value="true" key="use"/>
+		<item value="true" key="author"/>
+		<item value="false" key="nodeprecated"/>
+		<item value="false" key="nonavbar"/>
+		<item value="" key="docletpath"/>
+		<item value="C:\Program Files\Java\jdk1.8.0_20\bin\javadoc.exe" key="javadoc_command_history"/>
+		<item value="1.8" key="source"/>
+		<item value="true" key="version"/>
+		<item value="" key="docletname"/>
+		<item value="true" key="splitindex"/>
+		<item value="true" key="fromStandard"/>
+		<item value="false" key="notree"/>
+		<item value="C:\Users\Morpheus\Documents\JavaTuts\DebuggingUndComments\doc" key="destdir"/>
+		<item value="false" key="openinbrowser"/>
+		<section name="projects">
+			<section name="MarkovModell">
+				<item value="C:\Users\Morpheus\Documents\JavaTuts\MarkovModell\javadoc.xml" key="antpath"/>
+				<item value="C:\Users\Morpheus\Documents\JavaTuts\MarkovModell\doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="PacMan">
+				<item value="C:\Users\Morpheus\Documents\JavaTuts\PacMan\javadoc.xml" key="antpath"/>
+				<item value="C:\Users\Morpheus\Documents\JavaTuts\PacMan\doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="DebuggingUndComments">
+				<item value="C:\Users\Morpheus\Documents\JavaTuts\DebuggingUndComments\javadoc.xml" key="antpath"/>
+				<item value="C:\Users\Morpheus\Documents\JavaTuts\DebuggingUndComments\doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="Sortieren">
+				<item value="C:\Users\Morpheus\Documents\JavaTuts\Sortieren\javadoc.xml" key="antpath"/>
+				<item value="C:\Users\Morpheus\Documents\JavaTuts\Sortieren\doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="Automat">
+				<item value="C:\Users\Morpheus\Documents\JavaTuts\Automat\javadoc.xml" key="antpath"/>
+				<item value="C:\Users\Morpheus\Documents\JavaTuts\Automat\doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="Caesar">
+				<item value="C:\Users\Morpheus\Documents\JavaTuts\Caesar\javadoc.xml" key="antpath"/>
+				<item value="C:\Users\Morpheus\Documents\JavaTuts\Caesar\doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="Zwischenablage">
+				<item value="C:\Users\Morpheus\Documents\JavaTuts\Zwischenablage\javadoc.xml" key="antpath"/>
+				<item value="C:\Users\Morpheus\Documents\JavaTuts\Zwischenablage\doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="KNN">
+				<item value="C:\Users\Morpheus\Documents\JavaTuts\KNN\javadoc.xml" key="antpath"/>
+				<item value="C:\Users\Morpheus\Documents\JavaTuts\KNN\doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="Time">
+				<item value="C:\Users\Morpheus\Documents\JavaTuts\Time\javadoc.xml" key="antpath"/>
+				<item value="C:\Users\Morpheus\Documents\JavaTuts\Time\doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="Fifo">
+				<item value="C:\Users\Morpheus\Documents\JavaTuts\Fifo\javadoc.xml" key="antpath"/>
+				<item value="C:\Users\Morpheus\Documents\JavaTuts\Fifo\doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="Objektorientierung2">
+				<item value="C:\Users\Morpheus\Documents\JavaTuts\Objektorientierung2\javadoc.xml" key="antpath"/>
+				<item value="C:\Users\Morpheus\Documents\JavaTuts\Objektorientierung2\doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="Swing">
+				<item value="C:\Users\Morpheus\Documents\JavaTuts\Swing\javadoc.xml" key="antpath"/>
+				<item value="C:\Users\Morpheus\Documents\JavaTuts\Swing\doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="YoutubePlayer">
+				<item value="C:\Users\Morpheus\Documents\JavaTuts\YoutubePlayer\javadoc.xml" key="antpath"/>
+				<item value="C:\Users\Morpheus\Documents\JavaTuts\YoutubePlayer\doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="NeurnalesNetz">
+				<item value="C:\Users\Morpheus\Documents\JavaTuts\NeurnalesNetz\javadoc.xml" key="antpath"/>
+				<item value="C:\Users\Morpheus\Documents\JavaTuts\NeurnalesNetz\doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="Generics">
+				<item value="C:\Users\Morpheus\Documents\JavaTuts\Generics\javadoc.xml" key="antpath"/>
+				<item value="C:\Users\Morpheus\Documents\JavaTuts\Generics\doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="Bäume">
+				<item value="C:\Users\Morpheus\Documents\JavaTuts\Bäume\javadoc.xml" key="antpath"/>
+				<item value="C:\Users\Morpheus\Documents\JavaTuts\Bäume\doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="Printing">
+				<item value="C:\Users\Morpheus\Documents\JavaTuts\Printing\javadoc.xml" key="antpath"/>
+				<item value="C:\Users\Morpheus\Documents\JavaTuts\Printing\doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="Multithreading2">
+				<item value="C:\Users\Morpheus\Documents\JavaTuts\Multithreading2\javadoc.xml" key="antpath"/>
+				<item value="C:\Users\Morpheus\Documents\JavaTuts\Multithreading2\doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="Snake">
+				<item value="C:\Users\Morpheus\Documents\JavaTuts\Snake\javadoc.xml" key="antpath"/>
+				<item value="C:\Users\Morpheus\Documents\JavaTuts\Snake\doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="Bildbearbeitung">
+				<item value="C:\Users\Morpheus\Documents\JavaTuts\Bildbearbeitung\javadoc.xml" key="antpath"/>
+				<item value="C:\Users\Morpheus\Documents\JavaTuts\Bildbearbeitung\doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="Objektorientierung2b">
+				<item value="C:\Users\Morpheus\Documents\JavaTuts\Objektorientierung2b\javadoc.xml" key="antpath"/>
+				<item value="C:\Users\Morpheus\Documents\JavaTuts\Objektorientierung2b\doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="Labyrinth">
+				<item value="C:\Users\Morpheus\Documents\JavaTuts\Labyrinth\javadoc.xml" key="antpath"/>
+				<item value="C:\Users\Morpheus\Documents\JavaTuts\Labyrinth\doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="Encoding">
+				<item value="C:\Users\Morpheus\Documents\JavaTuts\Encoding\javadoc.xml" key="antpath"/>
+				<item value="C:\Users\Morpheus\Documents\JavaTuts\Encoding\doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="HelloWorld">
+				<item value="C:\Users\Morpheus\Documents\JavaTuts\HelloWorld\javadoc.xml" key="antpath"/>
+				<item value="C:\Users\Morpheus\Documents\JavaTuts\HelloWorld\doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="Multithreading">
+				<item value="C:\Users\Morpheus\Documents\JavaTuts\Multithreading\javadoc.xml" key="antpath"/>
+				<item value="C:\Users\Morpheus\Documents\JavaTuts\Multithreading\doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="Timer">
+				<item value="C:\Users\Morpheus\Documents\JavaTuts\Timer\javadoc.xml" key="antpath"/>
+				<item value="C:\Users\Morpheus\Documents\JavaTuts\Timer\doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="Quantisierer">
+				<item value="C:\Users\Morpheus\Documents\JavaTuts\Quantisierer\javadoc.xml" key="antpath"/>
+				<item value="C:\Users\Morpheus\Documents\JavaTuts\Quantisierer\doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="Datei">
+				<item value="C:\Users\Morpheus\Documents\JavaTuts\Datei\javadoc.xml" key="antpath"/>
+				<item value="C:\Users\Morpheus\Documents\JavaTuts\Datei\doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="Graphen">
+				<item value="C:\Users\Morpheus\Documents\JavaTuts\Graphen\javadoc.xml" key="antpath"/>
+				<item value="C:\Users\Morpheus\Documents\JavaTuts\Graphen\doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="Parzen Windows">
+				<item value="C:\Users\Morpheus\Documents\JavaTuts\Parzen Windows\javadoc.xml" key="antpath"/>
+				<item value="C:\Users\Morpheus\Documents\JavaTuts\Parzen Windows\doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="Datenhaltung">
+				<item value="C:\Users\Morpheus\Documents\JavaTuts\Datenhaltung\javadoc.xml" key="antpath"/>
+				<item value="C:\Users\Morpheus\Documents\JavaTuts\Datenhaltung\doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="JavaWrapUp">
+				<item value="C:\Users\Morpheus\Documents\JavaTuts\JavaWrapUp\javadoc.xml" key="antpath"/>
+				<item value="C:\Users\Morpheus\Documents\JavaTuts\JavaWrapUp\doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="YoutubeCrawler">
+				<item value="C:\Users\Morpheus\Documents\JavaTuts\YoutubeCrawler\javadoc.xml" key="antpath"/>
+				<item value="C:\Users\Morpheus\Documents\JavaTuts\YoutubeCrawler\doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+		</section>
+	</section>
+	<section name="JavaBuildConfigurationBlock">
+		<item value="false" key="expanded2"/>
+		<item value="false" key="expanded1"/>
+		<item value="true" key="expanded0"/>
+	</section>
+	<section name="SourceActionDialog.methods">
+		<item value="false" key="SynchronizedModifier"/>
+		<item value="false" key="Comments"/>
+		<item value="1" key="VisibilityModifier"/>
+		<item value="false" key="FinalModifier"/>
+	</section>
+	<section name="quick_assist_proposal_size">
+	</section>
+	<section name="NewPackageWizardPage">
+		<item value="false" key="create_package_info_java"/>
+	</section>
+	<section name="BuildPathsPropertyPage">
+		<item value="2" key="pageIndex"/>
+	</section>
+	<section name="JavadocWizardDialog">
+		<item value="616" key="DIALOG_WIDTH"/>
+		<item value="1|Segoe UI|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI" key="DIALOG_FONT_NAME"/>
+		<item value="567" key="DIALOG_HEIGHT"/>
+		<item value="626" key="DIALOG_X_ORIGIN"/>
+		<item value="73" key="DIALOG_Y_ORIGIN"/>
+	</section>
+	<section name="completion_proposal_size">
+	</section>
+	<section name="AddGetterSetterDialog">
+		<item value="false" key="SortOrdering"/>
+		<item value="false" key="RemoveFinal"/>
+	</section>
+	<section name="JavaElementSearchActions">
+	</section>
+</section>

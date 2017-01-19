@@ -1,0 +1,11 @@
+struct Rechteck {
+    x: f64,
+    y: f64,
+}
+
+impl Rechteck {
+    f
+}
+
+fn main() {
+}

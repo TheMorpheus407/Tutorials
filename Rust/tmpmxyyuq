@@ -1,0 +1,25 @@
+struct Rechteck {
+    x: f64,
+    y: f64,
+}
+
+impl Rechteck {
+	fn new() -> Rechteck {
+		Rechteck{x: 0.0, y: 2.0,}
+	}
+	fn qwertbfskjd(a:i32,.)
+    fn flaeche(&self) -> f64 {
+        self.x * self.y
+    }
+    fn umfang(&self) -> f64 {
+    	2.0 * (self.x + self.y)
+    }
+    fn destroy(self) -> Rechteck {
+    	self
+    }
+}
+
+fn main() {
+	let r = Rechteck::new().umfang();
+	println!("{}", r);
+}

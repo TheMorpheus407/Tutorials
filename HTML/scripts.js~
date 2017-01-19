@@ -1,0 +1,22 @@
+function meinEvent() {
+	var x = document.getElementById("div1");
+	var para = document.createElement("p");
+	para.innerHTML = "dynamisch praktisch gut.";
+	x.appendChild(para);
+}
+
+function meineFkt() {
+	document.getElementById("para2").addEventListener("mouseover", meineFkt);
+	var x = document.getElementById("div1");
+	var add = 0;
+	var id = setInterval(function () {
+		if (add >= 500) {
+			clearInterval(id);
+		}
+		else {
+			x.style.marginLeft = add + 'px';
+			x.style.marginTop = add + 'px';
+			add++;
+		}
+	}, 5); 
+}

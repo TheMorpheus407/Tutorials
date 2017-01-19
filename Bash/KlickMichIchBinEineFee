@@ -1,0 +1,9 @@
+#!/bin/bash
+function meinLS {
+	i=0
+	find . -iname "*" | while read f
+	do
+		echo $1 $f
+	done
+}
+meinLS Item

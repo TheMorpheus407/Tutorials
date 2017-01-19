@@ -1,0 +1,4 @@
+/home/morpheus/Tuts/C/myfile.cpp: In function ‘int main()’:
+/home/morpheus/Tuts/C/myfile.cpp:3:18: error: expected primary-expression before ‘)’ token
+   printf("fu\n", );
+                  ^

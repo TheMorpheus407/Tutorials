@@ -1,0 +1,9 @@
+struct P
+
+fn main() {
+    let mut v = vec![1,2,3,4,5,6];
+    v.push(7);
+    let a = v.pop();
+    let x: Option<f64, i32> = Some(5);
+    println!("{:?}", a);
+}

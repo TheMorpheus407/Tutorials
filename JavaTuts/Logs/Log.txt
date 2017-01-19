@@ -1,0 +1,4 @@
+ATTENTION!:SEVERE07 Aug 2015 18:20ERROR STH TERRIBLE HAPPENED
+ATTENTION!:WARNING07 Aug 2015 18:20Maybe something bad happened, i'll try sth different
+INFO07 Aug 2015 18:20running smooth
+FINE07 Aug 2015 18:20i'm feeling great thx

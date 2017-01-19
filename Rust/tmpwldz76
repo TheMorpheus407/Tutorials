@@ -1,0 +1,13 @@
+struct Rechteck {
+    x: f64,
+    y: f64,
+}
+
+impl Rechteck {
+    fn f(arg: Type) -> RetType {
+        unimplemented!();
+    }
+}
+
+fn main() {
+}

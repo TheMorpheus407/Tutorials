@@ -1,0 +1,13 @@
+struct Point<T> {
+	x:T,
+	y:T,
+}
+
+fn a(arg: Type) -> RetType {
+    unimplemented!();
+}
+
+fn main() {
+    let int_point: Point<f64> = Point{x:5.0, y:6.3};
+    println!("{}", int_point.x);
+}

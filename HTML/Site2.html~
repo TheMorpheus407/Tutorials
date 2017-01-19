@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Titel</title>
+<link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+<p>Lorem ipsum</p>
+<div id="div1">
+	<a href="Site2.html">Zu Mir</a>
+</div>
+<div id="div2">
+<p>Lorem ipsum</p>
+</div>
+</html> 

@@ -1,0 +1,5 @@
+fn main() {
+    let v = vec![1,2,3,4,5,6];
+    let i: usiz = 3;
+    println!("{}", v[i]);
+}

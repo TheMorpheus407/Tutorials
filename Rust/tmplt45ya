@@ -1,0 +1,16 @@
+struct Rechteck {
+    x: f64,
+    y: f64,
+}
+
+impl Rechteck {
+    fn flaeche(&self) -> f64 {
+        self.x * self.y
+    }
+    fn umfan
+}
+
+fn main() {
+	let r = Rechteck{x: 65.0, y: 2.0};
+	println!("{}", r.flaeche());
+}

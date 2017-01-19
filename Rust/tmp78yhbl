@@ -1,0 +1,7 @@
+struct Rec {
+    field: Type
+}
+
+fn main() {
+    println!("Foo2");
+}

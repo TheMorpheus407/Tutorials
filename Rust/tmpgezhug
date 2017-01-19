@@ -1,0 +1,8 @@
+struct Point<T> {
+	x:T,
+	y:T,
+}
+
+fn main() {
+    let int_pü
+}

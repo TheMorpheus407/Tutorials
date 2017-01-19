@@ -1,0 +1,13 @@
+enum Option<T, E> {
+	Some(T),
+	O
+	None,
+}
+
+fn main() {
+    let mut v = vec![1,2,3,4,5,6];
+    v.push(7);
+    let a = v.pop();
+    let x: Option<f64> = Some(5.0);
+    println!("{:?}", a);
+}

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;NeueKlasse&apos; to &apos;Tier&apos;&#x0D;&#x0A;- Original project: &apos;JavaWrapUp&apos;&#x0D;&#x0A;- Original element: &apos;NeueKlasse&apos;&#x0D;&#x0A;- Renamed element: &apos;Tier&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;NeueKlasse&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;{NeueKlasse.java[NeueKlasse" matchStrategy="1" name="Tier" qualified="false" references="true" similarDeclarations="false" stamp="1423120743395" textual="false" version="1.0"/>
+</session>

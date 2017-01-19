@@ -1,0 +1,3 @@
+/tmp/ccRAamMN.o: In Funktion `main':
+multithreading.cpp:(.text+0xaf): Nicht definierter Verweis auf `pthread_create'
+collect2: error: ld returned 1 exit status

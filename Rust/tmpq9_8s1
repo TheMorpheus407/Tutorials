@@ -1,0 +1,8 @@
+struct Rechteck {
+    x: f64,
+    y
+}
+
+fn main() {
+    println!("Foo2");
+}

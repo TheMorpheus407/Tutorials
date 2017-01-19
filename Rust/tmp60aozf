@@ -1,0 +1,6 @@
+fn main() {
+    let mut v = vec![1,2,3,4,5,6];
+    v.push(7);
+    let a = v.pop();
+    println!("{}", a);
+}

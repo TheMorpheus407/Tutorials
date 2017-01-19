@@ -1,0 +1,9 @@
+eclipse.preferences.version=1
+org.eclipse.jdt.debug.PREF_HCR_WITH_COMPILATION_ERRORS=true
+org.eclipse.jdt.debug.PREF_REQUEST_TIMEOUT=3000
+org.eclipse.jdt.debug._all_references_max_count=100
+org.eclipse.jdt.debug.all_instances_max_count=100
+org.eclipse.jdt.debug.default_breakpoint_suspend_policy=2
+org.eclipse.jdt.debug.show_references_in_var_view=false
+org.eclipse.jdt.debug.suspend_for_breakpoints_during_evaluation=true
+org.eclipse.jdt.debugdefault_watchpoint_suspend_policy=0
