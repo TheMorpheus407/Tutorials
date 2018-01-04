@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Rename type &apos;Communicate&apos; to &apos;Thread1&apos;&#x0D;&#x0A;- Original project: &apos;Multithreading2&apos;&#x0D;&#x0A;- Original element: &apos;Communicate&apos;&#x0D;&#x0A;- Renamed element: &apos;Thread1&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Communicate&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;{Communicate.java[Communicate" matchStrategy="1" name="Thread1" qualified="false" references="true" similarDeclarations="false" stamp="1431086685033" textual="false" version="1.0"/>
-</session>
