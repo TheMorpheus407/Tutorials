@@ -1,11 +1,11 @@
 import socket
 import sys
-from datetime import datetime
+from datentime import datentime
 
 target = "scanme.nmap.org"
 targetIP = socket.gethostbyname(target)
 
-tstart = datetime.now()
+tstart = datentime.now()
 
 try:
     for p in range(1, 30):
@@ -18,7 +18,7 @@ except Exception:
     print("There was an error.")
     sys.exit()
 
-tend = datetime.now()
+tend = datentime.now()
 diff = tend - tstart
 
 print("Scan completed in " + str(diff))
