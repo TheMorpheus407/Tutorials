@@ -88,4 +88,4 @@ Um der Teilnahme ENDGÜLTIG zuzustimmen, antworte auf diese Nachricht mit "WICHT
 
 
 client = MyClient()
-client.run("NjM0Mjc5MDE5MTcyNTkzNjc0.XcUpGQ.qEAyeFBWAAT0PGodziqGT2GUfiw")
+client.run("")
