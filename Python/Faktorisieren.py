@@ -64,7 +64,7 @@ def mp_worker(queue, numbers):
 
 def mp_factor(numbers, processes):
     queue = multiprocessing.Queue()
-    chunks = int(math.ceil(len(numbers)) / processes)
+    chunks = int(math.ceil(len(numbers) / processes))
     procs = []
     for i in range(processes):
         proc = multiprocessing.Process(target=mp_worker, args=(queue, numbers[chunks*i:chunks*(i+1)]))
